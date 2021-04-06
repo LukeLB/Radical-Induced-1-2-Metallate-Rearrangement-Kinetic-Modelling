@@ -15,4 +15,4 @@ Figure 5 of the main manuscript. Make sure you have also downloaded the observed
 You are welcome to use the code here to implement you're own models.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT]
