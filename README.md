@@ -12,7 +12,7 @@ Simply run the script to create and fit the model. This will print out visual fi
 Figure 5 of the main manuscript. Make sure you have also downloaded the observed kinetic data csv files.
 
 ## Contributing
-You are welcome to use the code here to implement you're own models.
+You are welcome to use the code here to implement your own models.
 
 ## License
 [MIT]
